@@ -45,6 +45,7 @@ The framework used is vue, it is created via the vue-cli, and uses jest for unit
 
 For more information regarding these technologies see below links.
 
+
 - [vue framework](https://vuejs.org)
 - [jest framework](https://jestjs.io)
 - [testcafe framework](https://testcafe.devexpress.com/Documentation/Getting_Started/Getting_Started_Guide/)
